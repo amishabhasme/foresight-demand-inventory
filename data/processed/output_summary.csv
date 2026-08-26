@@ -1,0 +1,6 @@
+dataset,rows,columns
+sales_clean,20906,9
+sku_master_clean,40,7
+calendar_clean,546,7
+inventory_clean,21840,7
+analysis_ready,20906,26
